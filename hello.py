@@ -1,0 +1,6 @@
+print("Hello, iam Mohammad Ruhith!")
+print("This is my first docker project")
+print("I am learning Docker")
+print("I am learning DevOps")
+print("I am learning Kubernetes")
+print("I am learning Jenkins")
